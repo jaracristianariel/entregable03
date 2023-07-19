@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Anillo",
+    "description": "Oro",
+    "price": 15000,
+    "thumbnail": "imagen",
+    "code": "a002",
+    "stock": 6,
+    "id": 1
+  },
+  {
+    "title": "Pulsera",
+    "description": "Plata",
+    "price": 3600,
+    "thumbnail": "imagen",
+    "code": "p003",
+    "stock": 9,
+    "id": 2
+  },
+  {
+    "title": "Collar",
+    "description": "Oro",
+    "price": 23600,
+    "thumbnail": "imagen",
+    "code": "c005",
+    "stock": 9,
+    "id": 3
+  },
+  {
+    "title": "Anillo",
+    "description": "Plana",
+    "price": 1600,
+    "thumbnail": "imagen",
+    "code": "a015",
+    "stock": 2,
+    "id": 4
+  }
+]
